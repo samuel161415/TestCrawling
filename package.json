@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "got-scraping": "^3.2.15",
+    "playwright": "^1.54.1",
+    "puppeteer": "^23.5.0"
+  }
+}
